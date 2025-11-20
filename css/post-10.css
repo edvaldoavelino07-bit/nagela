@@ -1,0 +1,51 @@
+.elementor-kit-10{--e-global-color-primary:#CDB28E;--e-global-color-secondary:#1A4B39;--e-global-color-text:#7A7A7A;--e-global-color-accent:#49AC88;--e-global-color-4b96d69:#CDB28E;--e-global-color-db1386d:#FFFFFF;--e-global-color-b832ff9:#214638;--e-global-color-8c7a3f9:#917A5C;--e-global-color-b6d3c42:#1A4B39;--e-global-color-67db0ad:#20D4A4;--e-global-color-9c3f252:#61BC9B;--e-global-color-e864069:#49AC88;--e-global-color-49549f2:#F3EFE4;--e-global-color-3857508:#060606;--e-global-color-529fa16:#AF28E4;--e-global-color-5d80e83:#7D07D9;--e-global-color-4a2d631:#E7C594;--e-global-color-dbdd57a:#977E63;--e-global-color-c3b274a:#B98A57;--e-global-color-ea344a8:#E5BB97;--e-global-color-0c5183f:#9F744A;--e-global-color-68bdf60:#32644A;--e-global-color-afc6274:#4C8D6B;--e-global-color-b6faaee:#4FB17E;--e-global-color-4f73d34:#32644A45;--e-global-color-f044ce4:#2DBE8A;--e-global-color-3443715:#D80909;--e-global-color-7041c83:#B40404;--e-global-color-f0dd4c8:#BFAE8B;--e-global-color-00006e0:#8F7B48;--e-global-color-a874ffa:#C5C1B3;--e-global-color-b01db38:#398E6E;--e-global-color-dec9796:#2A5D4A;--e-global-color-822d18a:#E5BB97;--e-global-color-7fd3baf:#D5B883;--e-global-color-d616da5:#B69963;--e-global-color-9426847:#49AC88;--e-global-color-86146e5:#111A13;--e-global-color-c1c905c:#0B120D;--e-global-color-929e4d1:#DAA25B;--e-global-color-9afe048:#0B120D;--e-global-typography-primary-font-family:"Montserrat";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"TAN AEGEAN";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;--e-global-typography-9fc9754-font-family:"Boston Angel";--e-global-typography-9fc9754-font-size:40px;--e-global-typography-9fc9754-font-weight:300;--e-global-typography-9fc9754-line-height:1em;--e-global-typography-9fc9754-letter-spacing:0px;}.elementor-kit-10 e-page-transition{background-color:#FFBC7D;}.elementor-kit-10 a{text-decoration:none;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;--widgets-spacing-row:20px;--widgets-spacing-column:20px;}{}h1.entry-title{display:var(--page-title-display);}.site-header .site-branding{flex-direction:column;align-items:stretch;}.site-header{padding-inline-end:0px;padding-inline-start:0px;}.site-footer .site-branding{flex-direction:column;align-items:stretch;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS */<!DOCTYPE html>
+<html>
+  <head>
+    <link href="main.css" rel="stylesheet" />
+    ...
+  </head>
+</html/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'TAN AEGEAN';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../fonts/TAN-AEGEAN.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Boston Angel';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('../fonts/Boston-Angel-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Boston Angel';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('../fonts/Boston-Angel-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Boston Angel';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('../fonts/Boston-Angel-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Boston Angel';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('../fonts/Boston-Angel-Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Boston Angel';
+	font-style: normal;
+	font-weight: 200;
+	font-display: auto;
+	src: url('../fonts/Boston-Angel-Thin.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
